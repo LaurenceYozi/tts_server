@@ -1,0 +1,8 @@
+nemo*
+*.pyc
+test*
+jemalloc.sh
+script.sh
+text2cmu*
+server*
+*.wav
